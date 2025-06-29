@@ -11,7 +11,7 @@ public class Leetcode125 {
         String str = s.toLowerCase();
         String str1 = clean(str);
 
-        // String Reverse Logic
+        // String Reverse Logic  or the code for reverse string
         String reverse = "";
         char[] ch = str1.toCharArray();
         for(int i=str1.length()-1; i>=0; i--) {
