@@ -1,5 +1,6 @@
 package LeetCode_Problems;
 
+
 public class Leetcode125 {
     public static void main(String[] args) {
         String str = "A man, a plan, a canal: Panama";
@@ -34,8 +35,8 @@ public class Leetcode125 {
             char ch = str.charAt(i);
 
             if(ch>='a' && ch<='z' ||
-                ch>='A' && ch<='Z' ||
-                ch>='0' && ch<='9') {
+                    ch>='A' && ch<='Z' ||
+                    ch>='0' && ch<='9') {
                 str1 = str1+ch;
             } else {
 
