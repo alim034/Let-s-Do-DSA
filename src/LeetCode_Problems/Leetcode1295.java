@@ -3,8 +3,8 @@ package LeetCode_Problems;
 public class Leetcode1295 {
 
     public static void main(String[] args) {
-//        int[] nums = {12,345,2,6,7896};
-        int[] nums = {555,901,482,1771};
+        int[] nums = {12,345,2,6,7896};
+//        int[] nums = {555,901,482,1771};
 
         System.out.println(findNumbers(nums));
     }
