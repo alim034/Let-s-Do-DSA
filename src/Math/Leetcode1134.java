@@ -1,6 +1,5 @@
 package Math;
 
-
 public class Leetcode1134 {
     public static void main(String[] args) {
 
