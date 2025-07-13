@@ -1,4 +1,4 @@
-// Find the Number
+// Find the Number of Triplets whos sum equals to the target value.
 package Arrays;
 
 public class TargetSum {
