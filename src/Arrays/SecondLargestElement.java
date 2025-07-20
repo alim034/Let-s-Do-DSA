@@ -2,9 +2,9 @@ package Arrays;
 
 public class SecondLargestElement {
     public static void main(String[] args) {
-//        int[] arr = {12, 35, 1, 10, 34, 1};
+        int[] arr = {12, 35, 1, 10, 34, 1};
 //        int[] arr = {10,5,10};
-        int[] arr = {10,10,10};
+//        int[] arr = {10,10,10};
 
         System.out.println(secondLargest(arr));
     }
