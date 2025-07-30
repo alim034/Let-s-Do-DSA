@@ -10,6 +10,8 @@ public class Leetcode26 {
         for(int i=0; i<j; i++) {
             System.out.print(arr[i] + " ");
         }
+
+
     }
 
     public static int removeDuplicate(int[] arr) {
