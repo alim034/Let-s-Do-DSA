@@ -6,7 +6,8 @@ public class Leetcode905 {
     public static void main(String[] args) {
 
 //        int[] nums = {3,1,2,4};
-        int[] nums = {0};
+//        int[] nums = {0};
+        int[] nums = {1,2,3,4,5,6,7};
         int[] ans = sortArrayByParity(nums);
 
         System.out.println(Arrays.toString(ans));
