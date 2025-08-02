@@ -10,7 +10,11 @@ public class Leetcode905 {
         int[] nums = {1,2,3,4,5,6,7};
         int[] ans = sortArrayByParity(nums);
 
-        System.out.println(Arrays.toString(ans));
+//        System.out.println(Arrays.toString(ans));
+
+        for(int i: ans) {
+            System.out.print(i + " ");
+        }
     }
 
     public static int[] sortArrayByParity(int[] nums) {
