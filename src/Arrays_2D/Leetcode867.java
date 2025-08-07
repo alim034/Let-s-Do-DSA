@@ -40,6 +40,6 @@ public class Leetcode867 {
         int[][] ans = transpose(matrix);
 
         System.out.println("Matrix After Transpose: ");
-        printMatrix(matrix);
+        printMatrix(ans);
     }
 }
