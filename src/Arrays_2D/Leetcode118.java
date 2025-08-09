@@ -63,8 +63,6 @@ public class Leetcode118 {
         int[][] ans = pascal(n);
         printMatrix(ans);
 
-
-        System.out.println();
         System.out.println("=====================");
 
         List<List<Integer>> answer = pascal1(n);
