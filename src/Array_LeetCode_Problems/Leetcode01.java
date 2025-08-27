@@ -1,5 +1,5 @@
 // Link: https://leetcode.com/problems/two-sum/description/
-package LeetCode_Problems;
+package Array_LeetCode_Problems;
 
 public class Leetcode01 {
     public static void main(String[] args) {
