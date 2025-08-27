@@ -1,4 +1,4 @@
-package LeetCode_Problems;
+package Array_LeetCode_Problems;
 
 public class Leetcode189 {
     public static void main(String[] args) {

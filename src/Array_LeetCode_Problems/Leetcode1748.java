@@ -1,6 +1,4 @@
-package LeetCode_Problems;
-
-import java.util.Arrays;
+package Array_LeetCode_Problems;
 
 public class Leetcode1748 {
 

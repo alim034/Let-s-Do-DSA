@@ -1,6 +1,4 @@
-package LeetCode_Problems;
-
-import java.util.ArrayList;
+package Array_LeetCode_Problems;
 
 public class Leetcode1929 {
 

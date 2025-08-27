@@ -1,4 +1,4 @@
-package LeetCode_Problems;
+package Array_LeetCode_Problems;
 import java.util.Arrays;
 
 public class Leetcode215 {
