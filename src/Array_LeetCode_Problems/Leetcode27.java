@@ -1,7 +1,4 @@
-package LeetCode_Problems;
-
-import java.util.ArrayList;
-import java.util.Arrays;
+package Array_LeetCode_Problems;
 
 public class Leetcode27 {
     public static void main(String[] args) {
