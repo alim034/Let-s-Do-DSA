@@ -1,5 +1,5 @@
 // Link: https://leetcode.com/problems/trapping-rain-water/description/
-package LeetCode_Problems;
+package Array_LeetCode_Problems;
 
 public class Leetcode42 {
 
