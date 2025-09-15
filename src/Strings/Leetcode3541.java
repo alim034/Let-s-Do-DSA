@@ -2,9 +2,11 @@ package Strings;
 
 public class Leetcode3541 {
     public static void main(String[] args) {
-        String s = "successes";
+//        String s = "successes";
+        String s = "falsedds";
         System.out.println(maxFreqSum(s));
     }
+
 
     public static int maxFreqSum(String s) {
         StringBuilder vowels = new StringBuilder();
